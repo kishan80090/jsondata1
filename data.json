@@ -1,0 +1,106 @@
+[
+    {
+    "ques_no": "1",
+        "question":"What is C?",
+        "a":"Programming Language",
+        "b":"A game",
+        "c":"A move",
+        "d":"Node of these",
+        "correct":"a",
+        "answer":"e"
+    },
+    {
+        "ques_no": "2",
+        "question":"What is the correct format specifier to print an interger in C?",
+        "a":"%c",
+        "b":"%d",
+        "c":"%f",
+        "d":"%s",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "3",
+        "question":"Which of the following is the correct syntax for the main function in C?",
+        "a":"void main()",
+        "b":"int main()",
+        "c":"main()",
+        "d":"All of the above",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "4",
+        "question":"Which of the following is used to take input from the user in C?",
+        "a":"printf()",
+        "b":"cin",
+        "c":"scanf()",
+        "d":"input()",
+        "correct":"c",
+        "answer":"e"
+    },
+    {
+        "ques_no": "5",
+        "question":"Which of following is a correct identifier in c++",
+        "a":"2 variable",
+        "b":"_value",
+        "c":"first-name",
+        "d":"class",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "6",
+        "question":"Which of the following is used to create an object in c++",
+        "a":"class",
+        "b":"struct",
+        "c":"new",
+        "d":"object",
+        "correct":"c",
+        "answer":"e"
+    },
+    {
+        "ques_no": "7",
+        "question":"What is the size of an int in c++(most 32-bit system)?",
+        "a":"2 bytes",
+        "b":"4 bytes",
+        "c":"8 bytes",
+        "d":"Depends on the compiler",
+        "correct":"b",
+        "answer":"e"
+    },
+    {
+        "ques_no": "8",
+        "question":"Which of the following is the correct syntax of c++ comment?",
+        "a":"/*comment*/",
+        "b":"//comment",
+        "c":"Both A and B",
+        "d":"# comment",
+        "correct":"c",
+        "answer":"e"
+        
+    },
+    {
+        "ques_no": "9",
+        "question":"What is the return type of a constructor?",
+        "a":"int",
+        "b":"void",
+        "c":"class name",
+        "d":"it has no return type",
+        "correct":"d",
+        "answer":"e"
+        
+
+    },
+    {
+        "ques_no": "10",
+        "question":"Which keyword is used to define a class in c++?",
+        "a":"object",
+        "b":"structure",
+        "c":"class",
+        "d":"define",
+        "correct":"c",
+        "answer":"e"
+        
+    }
+]
